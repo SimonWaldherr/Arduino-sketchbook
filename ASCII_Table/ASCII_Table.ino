@@ -1,3 +1,10 @@
+/* 
+  Print ASCII and the DEC, HEX and BIN codes of the Symbols
+
+  Author: Simon Waldherr
+  License: MIT
+*/
+
 int i = 0;                       // variable
 
 void setup()
