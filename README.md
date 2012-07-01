@@ -11,3 +11,5 @@ ASCII_Table     | Ein Sketch der ASCII Tabellen per Serial ausgibt            | 
 MSGEQ7          | Sketch um das Sparkfun MSGEQ7 Shield zu testen              | Sketch to test the Sparkfun MSGEQ7 Shield                   
 Morse           | Textausgabe über einen digitalen IO-Port via Morsecode      | Textoutput with one digital IO-Port via Morsecode           
 SerialGateway   | Nachrichten auf einem Serial-Port auf anderen ausgeben      | Messages on one Serial-port mirrord to the others           
+
+License: MIT
